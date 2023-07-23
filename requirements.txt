@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Python version (>= 3.x)
+# Replace ">= 3.x" with the specific version of Python you are using
+python>=3.x
+
+# Tkinter library
+tkinter
+
+# PyPDF2 library
+PyPDF2
